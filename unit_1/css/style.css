@@ -1,0 +1,9 @@
+body{
+	background-color: AliceBlue;
+}
+
+h1, p {
+	color: DimGray;
+	background-color: yellow;
+}
+
