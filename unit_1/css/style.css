@@ -1,0 +1,19 @@
+body{
+	background-color: AliceBlue;
+}
+
+h1 {
+	color: DimGray;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 3em;
+	margin: 30px;
+}
+
+p {
+	color: DimGray;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 1em;
+	margin: 30px;
+
+}
+
