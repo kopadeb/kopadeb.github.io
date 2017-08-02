@@ -13,16 +13,23 @@ h1, h2 {
 	line-spacing: 1.5em;
 	margin: .5em;
 	text-transform: uppercase;
-	background-color: rgba(255, 255, 255, .3);
+	/*background-color: rgba(255, 255, 255, .3);*/
 
 }
 
 
 div {
 	max-width:500px;
-
 }
 
+.block {
+	height: 590px;
+	padding-top: 30px;
+	padding-bottom: 30px;
+	padding-left: 15px;
+	padding-right: 15px;
+	background-color: rgba(255, 255, 255, .9);
+}
 
 
 p {
@@ -33,7 +40,7 @@ p {
 	line-height: 1.3em;
 	text-align: justify;
 	margin: 1.5em;
-	background-color: rgba(255, 255, 255, .3);
+	/*background-color: rgba(255, 255, 255, .3);*/
 
 
 }
@@ -45,7 +52,7 @@ p {
 	font-size: 18px;
 	line-spacing: 1.5em;
 	margin: 1em;
-	background-color: rgba(255, 255, 255, .3);
+	/*background-color: rgba(255, 255, 255, .3);*/
 
 }
 
@@ -58,7 +65,7 @@ p {
 	line-height: 1.3em;
 	text-align: justify;
 	margin: 1em;
-	background-color: rgba(255, 255, 255, .3);
+	/*background-color: rgba(255, 255, 255, .3);*/
 }
 
 
